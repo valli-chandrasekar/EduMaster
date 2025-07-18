@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+p{
+    font-size:17px;
+}
+.menu{
+    padding:20px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:burlywood;
+    width:75%;
+}
+body{
+    background-image: url('https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1350&q=80');
+}
+.course{
+    list-style-type:circle ;
+    list-style-position: inside;
+}
+hr{
+    padding:1px;
+    background-color: brown;
+    border:none;
+}
+#about{
+    background-color:bisque;
+    width:40%;
+    padding-left:10%;
+     
+}
+#contact{
+    background-color:lightgrey;
+    
+}
+#courses{
+    background-color:honeydew;
+    width:50%;
+    
+}
+h4{
+    color:blue;
+}
+table{
+    background-color: antiquewhite;
+    text-align:center;
+    border-collapse:separate;
+}
